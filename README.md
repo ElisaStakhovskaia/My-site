@@ -6,5 +6,5 @@
 
 Эта Муха - черепаховая девочка, трехцветными бывают только кошки!
 
-![](/photo_2023-02-12%2016.19.27.jpeg)
+![](https://github.com/ElisaStakhovskaia/My-site/blob/master/photo_2023-02-12%2016.19.27.jpeg)
 
